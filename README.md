@@ -5,7 +5,7 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 ![GitHub issues](https://img.shields.io/github/issues/Green-Software-Foundation/Carbon_CI_Pipeline_Tooling)
 ![GitHub](https://img.shields.io/github/license/Green-Software-Foundation/Carbon_CI_Pipeline_Tooling)
-![GitHub Repo stars](https://img.shields.io/github/stars/Green-Software-Foundation/Carbon_CI_Pipeline_Tooling?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Green-Software-Foundation/Carbon_CI_Pipeline_Tooling?style=social) 
 
 ## Scope
 
